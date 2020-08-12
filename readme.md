@@ -14,7 +14,7 @@ Nesse desafio, o objetivo era desenvolver mais uma aplicação, a GoRestaurant. 
 Essa será uma aplicação que irá se conectar a uma fake API, e exibir os pratos de comida criados e permitir a criação, remoção e atualização desses pratos.
 
 ## Template da aplicação
-Para te ajudar nesse desafio, a rocketseat criou para nós um modelo que você deve utilizar como um template do Github.
+Para nos ajudar nesse desafio, a rocketseat criou para nós um modelo que você deve utilizar como um template do Github.
 
 Link: https://github.com/rocketseat-education/gostack-template-reactjs-crud
 
@@ -25,17 +25,17 @@ O layout pode ser acessado através da página do Figma: https://www.figma.com/f
 
 
 <p align="center">
-  <img src="screens/02.png"/>
+  <img src="screens/02.png" width="700" height="350"/>
 </p>
 
-### OBS.: O layout da aplicação já estava feito, nós precisávamos executar a lógica da aplicação e não desenvolver o layout
+#### OBS.: O layout da aplicação já estava feito, nós precisávamos executar a lógica da aplicação e não desenvolver o layout.
 
 ## Funções
-[x] Listar os pratos de comida da sua API
-[x] Adicionar novos pratos de comida a sua API
-[x] Editar pratos de comida da sua API
-[x] Remover pratos de comida da sua API
-[x] Alterar disponibilidade dos pratos de comida da sua API
+- [x] Listar os pratos de comida da sua API
+- [x] Adicionar novos pratos de comida a sua API
+- [x] Editar pratos de comida da sua API
+- [x] Remover pratos de comida da sua API
+- [x] Alterar disponibilidade dos pratos de comida da sua API
 
 ## Como rodar na sua máquina
 
