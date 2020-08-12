@@ -5,7 +5,7 @@
 ![Badge](https://img.shields.io/github/issues/Matheus-SS/GoRestaurant-Web)
 ![Badge](https://img.shields.io/github/forks/Matheus-SS/GoRestaurant-Web)
 ![Badge](https://img.shields.io/github/stars/Matheus-SS/GoRestaurant-Web)
-[![GitHub license](https://img.shields.io/github/license/Matheus-SS/GoRestaurant-Web?style=plastic)](https://github.com/Matheus-SS/GoRestaurant-Web/blob/master/LICENSE)
+![Badge](https://img.shields.io/github/license/Matheus-SS/GoRestaurant-Web)
 
 # Desafio 10: GoRestaurant web
 > Desafio do bootcamp Rocketseat
