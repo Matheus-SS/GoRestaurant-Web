@@ -21,12 +21,12 @@ Essa será uma aplicação que irá se conectar a uma fake API, e exibir os prat
 
 
 ## Template da aplicação
-Para nos ajudar nesse desafio, a rocketseat criou para nós um modelo que você deve utilizar como um template do Github.
+Para nos ajudar nesse desafio, a rocketseat criou para nós um modelo que nós devemos utilizar como um template do Github.
 
 Link: https://github.com/rocketseat-education/gostack-template-reactjs-crud
 
 ## Layout da aplicação
-Essa aplicação possui um layout que nós pudessemos seguir para conseguir visualizar o seu funcionamento.
+Essa aplicação possuía um layout que nós pudéssemos seguir para conseguir visualizar o seu funcionamento.
 
 O layout pode ser acessado através da página do Figma: https://www.figma.com/file/1lK6AVCPybtWeBLCH8B08N/GoRestaurant?node-id=0%3A1
 
