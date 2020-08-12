@@ -24,9 +24,9 @@ Essa aplicação possui um layout que nós pudessemos seguir para conseguir visu
 O layout pode ser acessado através da página do Figma: https://www.figma.com/file/1lK6AVCPybtWeBLCH8B08N/GoRestaurant?node-id=0%3A1
 
 
-<p align="center">
-  <img src="screens/02.png" width="700" height="350"/>
-</p>
+
+  ![](screens/02.png)
+
 
 #### OBS.: O layout da aplicação já estava feito, nós precisávamos executar a lógica da aplicação e não desenvolver o layout.
 
