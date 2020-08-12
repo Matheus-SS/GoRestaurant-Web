@@ -5,6 +5,7 @@
 ![Badge](https://img.shields.io/github/issues/Matheus-SS/GoRestaurant-Web)
 ![Badge](https://img.shields.io/github/forks/Matheus-SS/GoRestaurant-Web)
 ![Badge](https://img.shields.io/github/stars/Matheus-SS/GoRestaurant-Web)
+[![GitHub license](https://img.shields.io/github/license/Matheus-SS/GoRestaurant-Web?style=plastic)](https://github.com/Matheus-SS/GoRestaurant-Web/blob/master/LICENSE)
 
 # Desafio 10: GoRestaurant web
 > Desafio do bootcamp Rocketseat
@@ -51,3 +52,5 @@ Abra o arquivo e instale todas as suas dependências,se você estiver utilizando
 E irá instalar todas as dependencias necessárias.
 
 Digite `yarn start` para executar a aplicação, a seguir irá abrir a aplicação no seu navegador.
+
+> Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Matheus-SS/GoRestaurant-Web/blob/master/LICENSE) para mais detalhes.
