@@ -13,6 +13,12 @@ Nesse desafio, o objetivo era desenvolver mais uma aplicação, a GoRestaurant. 
 
 Essa será uma aplicação que irá se conectar a uma fake API, e exibir os pratos de comida criados e permitir a criação, remoção e atualização desses pratos.
 
+
+## Principais tecnologias 
+- React.js
+- Typescript
+
+
 ## Template da aplicação
 Para nos ajudar nesse desafio, a rocketseat criou para nós um modelo que você deve utilizar como um template do Github.
 
